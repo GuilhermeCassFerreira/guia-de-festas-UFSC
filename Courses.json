@@ -1,0 +1,122 @@
+[
+  {
+    "codigo": "1",
+    "name": "Sistemas de Informação",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Noturno",
+    "carga_horaria": "3600",
+    "mapa": {
+      "lat": "-27.599830132223484",
+      "lgn": "-48.51704830527177"
+    },
+    "fotos": [
+      {
+        "url": "https://www.undb.edu.br/hubfs/sistemas%20da%20informacao.jpg"
+      },
+      {
+        "url": "http://marcusmarques.com.br/wp-content/uploads/2017/02/sistemas-de-informacao.jpg"
+      }
+    ],
+    "video": "https://youtu.be/mkZt72S1JDE",
+    "telefone_contato": "4837217548",
+    "nome_coordenador": "Álvaro Junio Pereira Franco",
+    "email_coordenador": "alvaro.junio@ufsc.br",
+    "website": "https://sin.ufsc.br/"
+  },
+  {
+    "codigo": "2",
+    "name": "Educação Física - Bacharelado",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Diurno",
+    "carga_horaria": "3400",
+    "mapa": {
+      "lat": "-27.605898736357926",
+      "lgn": "-48.51944679797835"
+    },
+    "fotos": [
+      {
+        "url": "https://portalcds.ufsc.br/files/2022/09/8176a78f-c92d-485b-8516-057ed254766e-768x512.jpg"
+      },
+      {
+        "url": "https://ufscsustentavel.ufsc.br/files/2018/05/vistacds.jpg"
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=jLMAcMmNnXM&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=22",
+    "telefone_contato": "4837219367",
+    "nome_coordenador": "Carlos Luiz Cardoso",
+    "email_coordenador": "c.cardoso@ufsc.br",
+    "website": "https://edfisica.grad.ufsc.br/"
+  },
+  {
+    "codigo": "3",
+    "name": "Direito",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Diuno ou Noturno",
+    "carga_horaria": "4440",
+    "mapa": {
+      "lat": "-27.598350743807156",
+      "lgn": "-48.522131368653156"
+    },
+    "fotos": [
+      {
+        "url": "https://ccj.paginas.ufsc.br/files/2018/08/85-anos.jpg"
+      },
+      {
+        "url": "https://caxif.ufsc.br/wp-content/uploads/CCJ-1180x400.jpg"
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=7t8agKmnmqY&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=27",
+    "telefone_contato": "4837219382",
+    "nome_coordenador": "Luiz Henrique Urquhart Cademartori",
+    "email_coordenador": "direito@contato.ufsc.br",
+    "website": "https://ccj.ufsc.br/"
+  },
+  {
+    "codigo": "4",
+    "name": "Engenharia de Aquicultura",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Integral",
+    "carga_horaria": "4410",
+    "mapa": {
+      "lat": "-27.581699262956633",
+      "lgn": "-48.50582525229165"
+    },
+    "fotos": [
+      {
+        "url": "https://engenhariadeaquicultura.paginas.ufsc.br/files/2019/11/Logo-AQI_20-anos.jpeg"
+      },
+      {
+        "url": "https://fastly.4sqi.net/img/general/600x600/28877338_-MD1AHfWvOQ86CwoalXb0h6CbB0P2M0cXuvECMRzpM0.jpg"
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=Q9bJBuGT834&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=21",
+    "telefone_contato": "4837212708",
+    "nome_coordenador": "Marcos C. P. de Albuquerque",
+    "email_coordenador": "marcos.m@ufsc.br",
+    "website": "https://aquicultura.grad.ufsc.br/"
+  },
+  {
+    "codigo": "5",
+    "name": "Ciências Biológicas",
+    "campus": "Campus Universitário Reitor João David Ferreira Lima",
+    "turno": "Diurno ou Noturno",
+    "carga_horaria": "3600",
+    "mapa": {
+      "lat": "-27.598965632968223",
+      "lgn": "-48.5218122480923"
+    },
+    "fotos": [
+      {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_S4dak6JiWPaVBAul3THW7oFxBvFw2rGq8wnfA=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "url": "https://dptmip.paginas.ufsc.br/files/2020/06/CCB-UFSC.jpg"
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=usGuzJLcpfQ&list=PLNPwTW7AIrc-Kv5YbWXI3IygoHF93FJBH&index=20",
+    "telefone_contato": "4837219235",
+    "nome_coordenador": "Daniela Cristina de Toni",
+    "email_coordenador": "biologia@contato.ufsc.br",
+    "website": "https://cienciasbiologicas.grad.ufsc.br/"
+  }
+]
